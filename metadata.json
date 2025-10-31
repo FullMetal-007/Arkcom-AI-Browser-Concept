@@ -1,0 +1,7 @@
+{
+  "name": "Arkcom AI Browser",
+  "description": "An AI-powered search and chat assistant integrated into a browser-like interface. It provides instant, context-aware results using the Gemini API and Google Search, offering a conversational and intelligent browsing experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
