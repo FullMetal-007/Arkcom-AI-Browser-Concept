@@ -1,4 +1,4 @@
-#Arkcom AI Browser
+# Arkcom AI Browser
 An AI-powered search and chat assistant integrated into a browser-like interface. 
 It leverages the Google Gemini API to provide instant, context-aware results, offering a conversational and intelligent browsing experience.
 ![alt text](https://storage.googleapis.com/aistudio-marketplace/project-arkcom-browser-screenshot.png)
