@@ -1,0 +1,2 @@
+# Arkcom AI Browser Concept
+Arkcom AI Browser is an AI-powered browser that combines conversational AI with real-time web search in a single interface. It supports text and image inputs, maintains chat history, and delivers source-backed AI responses with clickable citations. With a modern, themeable UI, voice input, and seamless session management, Arkcom simplifies research and browsing into a unified, efficient experience.
